@@ -28,6 +28,8 @@ public class WeatherContoller {
 	private Logger log = LoggerFactory.getLogger(WeatherContoller.class);
 	private String Celcius;
 	private String ikiNoktaUstUste;
+	private String dayTen;
+	private int TomorrowTemperature;
 
 
 
@@ -75,11 +77,47 @@ public class WeatherContoller {
 		
 			System.out.println(part1.getTempMax());
 		}
+		LocalDate dateOfToday = LocalDate.now();
+		Part1 part = new Part1();
+		part.setTempMax(havaDurumu.getData().getWeather().get(10).getMaxtempC());
+		dayTen = part.getTempMax();
+		
+		int monthOfDate = dateOfToday.getMonthValue();
+		switch(monthOfDate)
+		{
+		case 1: TomorrowTemperature = (int)Math.round((Integer.valueOf(dayTen) * 0.87) + 0.69);
+				break;
+		case 2: TomorrowTemperature = (int)Math.round((Integer.valueOf(dayTen) * 0.91) + 0.92);
+				break;
+		case 3: TomorrowTemperature = (int)Math.round((Integer.valueOf(dayTen) * 0.76) + 3.2);
+				break;
+		case 4: TomorrowTemperature = (int)Math.round((Integer.valueOf(dayTen) * 0.74) + 5.41);
+				break;
+		case 5: TomorrowTemperature = (int)Math.round((Integer.valueOf(dayTen) * 0.73) + 6.83);
+				break;
+		case 6: TomorrowTemperature = (int)Math.round((Integer.valueOf(dayTen) * 0.78) + 6.44);
+				break;
+		case 7: TomorrowTemperature = (int)Math.round((Integer.valueOf(dayTen) * 0.78) + 7.25);
+				break;
+		case 8: TomorrowTemperature = (int)Math.round((Integer.valueOf(dayTen) * 0.72) + 9);
+				break;
+		case 9: TomorrowTemperature = (int)Math.round((Integer.valueOf(dayTen) * 0.86) + 3.8);
+				break;
+		case 10: TomorrowTemperature = (int)Math.round((Integer.valueOf(dayTen) * 0.82) + 3.66);
+				break;
+		case 11: TomorrowTemperature = (int)Math.round((Integer.valueOf(dayTen) * 0.83) + 2.41);
+				break;
+		case 12: TomorrowTemperature = (int)Math.round((Integer.valueOf(dayTen) * 0.83) + 1.2);
+				break;
+		}
+		
+		
+		System.out.println("Tomorrow's predicted temperature is : " + TomorrowTemperature);
 		Celcius = " Celcius";
 		ikiNoktaUstUste = " : ";
 		
 		return part1List;
 	}
-
+	
 }
 
