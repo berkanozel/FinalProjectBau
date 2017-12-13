@@ -51,67 +51,67 @@
 			<select name="sehir" style="width: 270px; height: 40px;">
 				<option>---&#304l se&#231iniz...---</option>
 				<option value="Adana">Adana</option>
-				<option value="Adıyaman">Adıyaman</option>
+				<option value="Adiyaman">Adıyaman</option>
 				<option value="Afyonkarahisar">Afyonkarahisar</option>
-				<option value="Ağrı">A&#287r&#305</option>
+				<option value="Agrı">A&#287r&#305</option>
 				<option value="Aksaray">Aksaray</option>
 				<option value="Amasya">Amasya</option>
 				<option value="Ankara">Ankara</option>
 				<option value="Antalya">Antalya</option>
 				<option value="Ardahan">Ardahan</option>
 				<option value="Artvin">Artvin</option>
-				<option value="Aydın">Ayd&#305n</option>
+				<option value="Aydin">Ayd&#305n</option>
 				<option value="Balikesir">Bal&#305kesir</option>
-				<option value="Bartın">Bart&#305n</option>
+				<option value="Bartin">Bart&#305n</option>
 				<option value="Batman">Batman</option>
 				<option value="Bayburt">Bayburt</option>
 				<option value="Bilecik">Bilecik</option>
-				<option value="Bingöl">Bing&#246l</option>
+				<option value="Bingol">Bing&#246l</option>
 				<option value="Bitlis">Bitlis</option>
 				<option value="Bolu">Bolu</option>
 				<option value="Burdur">Burdur</option>
 				<option value="Bursa">Bursa</option>
-				<option value="Çanakkale">&#199anakkale</option>
-				<option value="Çankırı">&#199ank&#305r&#305</option>
-				<option value="Çorum">&#199orum</option>
+				<option value="canakkale">&#199anakkale</option>
+				<option value="cankiri">&#199ank&#305r&#305</option>
+				<option value="corum">&#199orum</option>
 				<option value="Denizli">Denizli</option>
-				<option value="Diyarbakır">Diyarbak&#305r</option>
-				<option value="Düzce">D&#252zce</option>
+				<option value="Diyarbakir">Diyarbak&#305r</option>
+				<option value="Duzce">D&#252zce</option>
 				<option value="Edirne">Edirne</option>
-				<option value="Elazığ">Elaz&#305&#287</option>
+				<option value="Elazig">Elaz&#305&#287</option>
 				<option value="Erzincan">Erzincan</option>
 				<option value="Erzurum">Erzurum</option>
-				<option value="Eskişehir">Eski&#351ehir</option>
+				<option value="Eskisehir">Eski&#351ehir</option>
 				<option value="Gaziantep">Gaziantep</option>
 				<option value="Giresun">Giresun</option>
-				<option value="Gümüşhane">G&#252m&#252&#351hane</option>
+				<option value="Gumushane">G&#252m&#252&#351hane</option>
 				<option value="Hakkari">Hakkari</option>
 				<option value="Hatay">Hatay</option>
-				<option value="Igdır">I&#287d&#305r</option>
+				<option value="Igdir">I&#287d&#305r</option>
 				<option value="Isparta">Isparta</option>
-				<option value="İstanbul">&#304stanbul</option>
-				<option value="İzmir">&#304zmir</option>
-				<option value="Kahramanmaraş">Kahramanmara&#351</option>
-				<option value="Karabük">Karab&#252k</option>
+				<option value="istanbul">&#304stanbul</option>
+				<option value="izmir">&#304zmir</option>
+				<option value="Kahramanmaras">Kahramanmara&#351</option>
+				<option value="Karabuk">Karab&#252k</option>
 				<option value="Karaman">Karaman</option>
 				<option value="Kars">Kars</option>
 				<option value="Kastamonu">Kastamonu</option>
 				<option value="Kayseri">Kayseri</option>
-				<option value="Kırıkkale">K&#305r&#305kkale</option>
-				<option value="Kırklareli">K&#305rklareli</option>
-				<option value="Kırşehir">K&#305r&#351ehir</option>
+				<option value="Kirikkale">K&#305r&#305kkale</option>
+				<option value="Kirklareli">K&#305rklareli</option>
+				<option value="Kirsehir">K&#305r&#351ehir</option>
 				<option value="Kilis">Kilis</option>
 				<option value="Kocaeli">Kocaeli</option>
 				<option value="Konya">Konya</option>
-				<option value="Kütahya">K&#252tahya</option>
+				<option value="Kutahya">K&#252tahya</option>
 				<option value="Malatya">Malatya</option>
 				<option value="Manisa">Manisa</option>
 				<option value="Mardin">Mardin</option>
 				<option value="Mersin">Mersin</option>
-				<option value="Muğla">Mu&#287la</option>
-				<option value="Muş">Mu&#351</option>
-				<option value="Nevşehir">Nev&#351ehir</option>
-				<option value="Niğde">Ni&#287de</option>
+				<option value="Mugla">Mu&#287la</option>
+				<option value="Mus">Mu&#351</option>
+				<option value="Nevsehir">Nev&#351ehir</option>
+				<option value="Nigde">Ni&#287de</option>
 				<option value="Ordu">Ordu</option>
 				<option value="Osmaniye">Osmaniye</option>
 				<option value="Rize">Rize</option>
@@ -120,13 +120,13 @@
 				<option value="Siirt">Siirt</option>
 				<option value="Sinop">Sinop</option>
 				<option value="Sivas">Sivas</option>
-				<option value="Şanlıurfa">&#350anl&#305urfa</option>
-				<option value="Şırnak">&#350&#305rnak</option>
-				<option value="Tekirdağ">Tekirda&#287</option>
+				<option value="sanliurfa">&#350anl&#305urfa</option>
+				<option value="sirnak">&#350&#305rnak</option>
+				<option value="Tekirdag">Tekirda&#287</option>
 				<option value="Tokat">Tokat</option>
 				<option value="Trabzon">Trabzon</option>
 				<option value="Tunceli">Tunceli</option>
-				<option value="Uşak">U&#351ak</option>
+				<option value="Usak">U&#351ak</option>
 				<option value="Van">Van</option>
 				<option value="Yalova">Yalova</option>
 				<option value="Yozgat">Yozgat</option>
@@ -136,96 +136,97 @@
 		</form>
 
 	</div>
-	<div align="center">
+	<div div
+		style="float: left; width: 60%; padding-left: 20px; padding-top: 30px;">
 		<td colspan=11><table>
 
 				<TR>
 
-					<TD><font color="black" style="font-size: large;">
+					<TD><font color="black" size="5">
 							${part1.get(0).date} ${ikiNoktaUstUste}</font></TD>
-					<TD><font color="red" style="font-size: x-large;">
+					<TD><font color="red" size="6">
 							${part1.get(0).tempMax} </Font></TD>
-					<TD><font color="red" style="font-size: large;">
+					<TD><font color="red" size="6">
 							${Celcius} </Font></TD>
 				</TR>
 				<TR>
-					<TD><font color="black" style="font-size: large;">
+					<TD><font color="black" size="5">
 							${part1.get(1).date} ${ikiNoktaUstUste}</font></TD>
-					<TD><font color="red" style="font-size: x-large;">
+					<TD><font color="red" size="6">
 							${part1.get(1).tempMax} </Font></TD>
-					<TD><font color="red" style="font-size: large;">
+					<TD><font color="red" size="6">
 							${Celcius} </Font></TD>
 				</TR>
 				<TR>
-					<TD><font color="black" style="font-size: large;">
+					<TD><font color="black" size="5">
 							${part1.get(2).date} ${ikiNoktaUstUste}</font></TD>
-					<TD><font color="red" style="font-size: x-large;">
+					<TD><font color="red" size="6">
 							${part1.get(2).tempMax} </Font></TD>
-					<TD><font color="red" style="font-size: large;">
+					<TD><font color="red" size="6">
 							${Celcius} </Font></TD>
 				</TR>
 				<TR>
-					<TD><font color="black" style="font-size: large;">
+					<TD><font color="black" size="5">
 							${part1.get(3).date} ${ikiNoktaUstUste}</font></TD>
-					<TD><font color="red" style="font-size: x-large;">
+					<TD><font color="red" size="6">
 							${part1.get(3).tempMax} </Font></TD>
-					<TD><font color="red" style="font-size: large;">
+					<TD><font color="red" size="6">
 							${Celcius} </Font></TD>
 				</TR>
 				<TR>
-					<TD><font color="black" style="font-size: large;">
+					<TD><font color="black" size="5">
 							${part1.get(4).date} ${ikiNoktaUstUste}</font></TD>
-					<TD><font color="red" style="font-size: x-large;">
+					<TD><font color="red" size="6">
 							${part1.get(4).tempMax} </Font></TD>
-					<TD><font color="red" style="font-size: large;">
+					<TD><font color="red" size="6">
 							${Celcius} </Font></TD>
 				</TR>
 				<TR>
-					<TD><font color="black" style="font-size: large;">
+					<TD><font color="black" size="5">
 							${part1.get(5).date} ${ikiNoktaUstUste}</font></TD>
-					<TD><font color="red" style="font-size: x-large;">
+					<TD><font color="red" size="6">
 							${part1.get(5).tempMax} </Font></TD>
-					<TD><font color="red" style="font-size: large;">
+					<TD><font color="red" size="6">
 							${Celcius} </Font></TD>
 				</TR>
 				<TR>
-					<TD><font color="black" style="font-size: large;">
+					<TD><font color="black" size="5">
 							${part1.get(6).date} ${ikiNoktaUstUste}</font></TD>
-					<TD><font color="red" style="font-size: x-large;">
+					<TD><font color="red" size="6">
 							${part1.get(6).tempMax} </Font></TD>
-					<TD><font color="red" style="font-size: large;">
+					<TD><font color="red" size="6">
 							${Celcius} </Font></TD>
 				</TR>
 				<TR>
-					<TD><font color="black" style="font-size: large;">
+					<TD><font color="black" size="5">
 							${part1.get(7).date} ${ikiNoktaUstUste}</font></TD>
-					<TD><font color="red" style="font-size: x-large;">
+					<TD><font color="red" size="6">
 							${part1.get(7).tempMax} </Font></TD>
-					<TD><font color="red" style="font-size: large;">
+					<TD><font color="red" size="6">
 							${Celcius} </Font></TD>
 				</TR>
 				<TR>
-					<TD><font color="black" style="font-size: large;">
+					<TD><font color="black" size="5">
 							${part1.get(8).date} ${ikiNoktaUstUste}</font></TD>
-					<TD><font color="red" style="font-size: x-large;">
+					<TD><font color="red" size="6">
 							${part1.get(8).tempMax} </Font></TD>
-					<TD><font color="red" style="font-size: large;">
+					<TD><font color="red" size="6">
 							${Celcius} </Font></TD>
 				</TR>
 				<TR>
-					<TD><font color="black" style="font-size: large;">
+					<TD><font color="black" size="5">
 							${part1.get(9).date} ${ikiNoktaUstUste}</font></TD>
-					<TD><font color="red" style="font-size: x-large;">
+					<TD><font color="red" size="6">
 							${part1.get(9).tempMax} </Font></TD>
-					<TD><font color="red" style="font-size: large;">
+					<TD><font color="red" size="6">
 							${Celcius} </Font></TD>
 				</TR>
 				<TR>
-					<TD><font color="black" style="font-size: large;">
+					<TD><font color="black" size="5">
 							${part1.get(10).date} ${ikiNoktaUstUste}</font></TD>
-					<TD><font color="red" style="font-size: x-large;">
+					<TD><font color="red" size="6">
 							${part1.get(10).tempMax} </Font></TD>
-					<TD><font color="red" style="font-size: large;">
+					<TD><font color="red" size="6">
 							${Celcius} </Font></TD>
 				</TR>
 				</td>
@@ -233,7 +234,19 @@
 			</table>
 	</div>
 
-	
+	<div style="float: right; width: 40%; padding-top: 120px; padding-right:20px">
+		<td colspan=1><table>
+				<TR>
+					<TD><font color="black" size="9">
+							${detailAboutTomorrow} </font></TD>
+				<TR>
+					<TD><font color="red" size="8">
+							<center>${TomorrowTemperature}${Celcius}</center></font></TD>
+				</TR>
+			</table>
+	</div>
+
+
 
 	<!-- /container -->
 	<script

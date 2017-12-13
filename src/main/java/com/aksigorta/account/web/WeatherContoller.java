@@ -29,6 +29,7 @@ public class WeatherContoller {
 	private String Celcius;
 	private String ikiNoktaUstUste;
 	private String dayTen;
+	private String detailAboutTomorrow;
 	private int TomorrowTemperature;
 
 
@@ -53,6 +54,8 @@ public class WeatherContoller {
 			model.addAttribute("part1", createLastYearWeatherArray10(havaDurumu));
 			model.addAttribute("Celcius", Celcius);
 			model.addAttribute("ikiNoktaUstUste",ikiNoktaUstUste);
+			model.addAttribute("detailAboutTomorrow",detailAboutTomorrow);
+			model.addAttribute("TomorrowTemperature",TomorrowTemperature);
 			
 		
 		} catch (Exception e) {
@@ -113,8 +116,9 @@ public class WeatherContoller {
 		
 		
 		System.out.println("Tomorrow's predicted temperature is : " + TomorrowTemperature);
-		Celcius = " Celcius";
-		ikiNoktaUstUste = " : ";
+		Celcius = "°C";
+		ikiNoktaUstUste = " :  ";
+		detailAboutTomorrow = "Predicted temperature is";
 		
 		return part1List;
 	}
